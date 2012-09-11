@@ -1,6 +1,6 @@
 <?php
 /************************************
- | Class name  : Table.inc.php |
+ | Class name  : Table.inc.php      |
  | Last Modify : Sep 2012           |
  | By          : Narong Rammanee    |
  | E-mail      : ranarong@live.com  |
