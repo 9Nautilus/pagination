@@ -7,7 +7,6 @@ How to install?
 Preparing:
 
 1. Installing PDO (http://php.net/manual/en/pdo.installation.php)
-2. If you want to use firePHP (http://www.firephp.org/HQ/Install.htm)
 
 Installing:
 
