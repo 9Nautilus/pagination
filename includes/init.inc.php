@@ -13,7 +13,7 @@ require_once dirname(__FILE__) . '/dbconfig.inc.php';
 define("DOC_ROOT", $_SERVER['DOCUMENT_ROOT']);
 
 // Define project name.
-define(PROJ_NAME, '/thaiphpdev/demos/php-classes/pagination/');
+define(PROJ_NAME, '/pagination/');
 
 // Data source name..
 $dsn = "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME;
